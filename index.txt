@@ -21,7 +21,7 @@ Red-sGunMeshes-main/shareddata/Guns/Fonts/UMP45.mesh
 Red-sGunMeshes-main/shareddata/Guns/Fonts/USPMatch.mesh
 Red-sGunMeshes-main/shareddata/Guns/Fonts/Vector.mesh
 Red-sGunMeshes-main/shareddata/Guns/Fonts/Vlad.mesh
-Red-sGunMeshes-main/shareddata/Guns/Fonts/winchester1873.mesh
+Red-sGunMeshes-main/shareddata/Guns/Fonts/Winchester1873.mesh
 Red-sGunMeshes-main/shareddata/Guns/Sound/AwpFiring.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/AwpReload.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/CrossbowFire.wav
