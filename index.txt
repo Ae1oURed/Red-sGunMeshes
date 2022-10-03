@@ -30,7 +30,7 @@ Red-sGunMeshes-main/shareddata/Guns/Sound/DeagleFire.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/DEagleReload.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/DefenderFire.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/DefenderReload.wav
-Red-sGunMeshes-main/shareddata/Guns/Sound/F2000Fire.wav
+Red-sGunMeshes-main/shareddata/Guns/Sound/f2000Fire.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/FamasFire.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/FN2000Reload.wav
 Red-sGunMeshes-main/shareddata/Guns/Sound/FamasReload.wav
